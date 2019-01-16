@@ -757,7 +757,6 @@
 			this.flatButton291.TextColor = global::System.Drawing.Color.FromArgb(243, 243, 243);
 			this.flatButton291.Click += new global::System.EventHandler(this.flatButton291_Click);
 			this.pictureBox27.BackColor = global::System.Drawing.Color.Purple;
-			this.pictureBox27.Image = (global::System.Drawing.Image)componentResourceManager.GetObject("pictureBox27.Image");
 			this.pictureBox27.Location = new global::System.Drawing.Point(0, 951);
 			this.pictureBox27.Name = "pictureBox27";
 			this.pictureBox27.Size = new global::System.Drawing.Size(43, 41);
@@ -5971,7 +5970,6 @@
 			this.richTextBox71.Name = "richTextBox71";
 			this.richTextBox71.Size = new global::System.Drawing.Size(100, 96);
 			this.richTextBox71.TabIndex = 21;
-			this.richTextBox71.Text = componentResourceManager.GetString("richTextBox71.Text");
 			this.richTextBox71.Visible = false;
 			this.flatButton304.BackColor = global::System.Drawing.Color.Transparent;
 			this.flatButton304.BaseColor = global::System.Drawing.Color.Purple;
@@ -5989,19 +5987,16 @@
 			this.richTextBox72.Name = "richTextBox72";
 			this.richTextBox72.Size = new global::System.Drawing.Size(100, 96);
 			this.richTextBox72.TabIndex = 22;
-			this.richTextBox72.Text = componentResourceManager.GetString("richTextBox72.Text");
 			this.richTextBox72.Visible = false;
 			this.richTextBox73.Location = new global::System.Drawing.Point(3, 205);
 			this.richTextBox73.Name = "richTextBox73";
 			this.richTextBox73.Size = new global::System.Drawing.Size(100, 96);
 			this.richTextBox73.TabIndex = 21;
-			this.richTextBox73.Text = componentResourceManager.GetString("richTextBox73.Text");
 			this.richTextBox73.Visible = false;
 			this.richTextBox74.Location = new global::System.Drawing.Point(2, 18);
 			this.richTextBox74.Name = "richTextBox74";
 			this.richTextBox74.Size = new global::System.Drawing.Size(100, 96);
 			this.richTextBox74.TabIndex = 24;
-			this.richTextBox74.Text = componentResourceManager.GetString("richTextBox74.Text");
 			this.richTextBox74.Visible = false;
 			this.flatButton306.BackColor = global::System.Drawing.Color.Transparent;
 			this.flatButton306.BaseColor = global::System.Drawing.Color.Purple;

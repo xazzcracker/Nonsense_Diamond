@@ -96,6 +96,9 @@
     <EmbeddedResource Include="JailbreakDestroyer\Languages.resources" />
     <EmbeddedResource Include="JailbreakDestroyer\Properties\Resources.resources" />
     <EmbeddedResource Include="JailbreakDestroyer\redesign1.resources" />
+    <EmbeddedResource Include="JailbreakDestroyer\redesign1.resx">
+      <DependentUpon>redesign1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="JailbreakDestroyer\Whitelist.resources" />
   </ItemGroup>
   <ItemGroup>

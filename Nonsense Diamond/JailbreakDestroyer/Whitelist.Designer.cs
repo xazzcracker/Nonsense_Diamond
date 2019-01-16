@@ -37,7 +37,6 @@
 			this.bunifuFlatButton1.DisabledColor = global::System.Drawing.Color.Gray;
 			this.bunifuFlatButton1.Font = new global::System.Drawing.Font("Verdana", 8.25f, global::System.Drawing.FontStyle.Regular, global::System.Drawing.GraphicsUnit.Point, 0);
 			this.bunifuFlatButton1.Iconcolor = global::System.Drawing.Color.Transparent;
-			this.bunifuFlatButton1.Iconimage = (global::System.Drawing.Image)componentResourceManager.GetObject("bunifuFlatButton1.Iconimage");
 			this.bunifuFlatButton1.Iconimage_right = null;
 			this.bunifuFlatButton1.Iconimage_right_Selected = null;
 			this.bunifuFlatButton1.Iconimage_Selected = null;
@@ -71,7 +70,6 @@
 			this.bunifuFlatButton2.DisabledColor = global::System.Drawing.Color.Gray;
 			this.bunifuFlatButton2.Font = new global::System.Drawing.Font("Verdana", 8.25f, global::System.Drawing.FontStyle.Regular, global::System.Drawing.GraphicsUnit.Point, 0);
 			this.bunifuFlatButton2.Iconcolor = global::System.Drawing.Color.Transparent;
-			this.bunifuFlatButton2.Iconimage = (global::System.Drawing.Image)componentResourceManager.GetObject("bunifuFlatButton2.Iconimage");
 			this.bunifuFlatButton2.Iconimage_right = null;
 			this.bunifuFlatButton2.Iconimage_right_Selected = null;
 			this.bunifuFlatButton2.Iconimage_Selected = null;
@@ -111,7 +109,6 @@
 			this.flatTextBox1.UseSystemPasswordChar = true;
 			this.flatTextBox1.TextChanged += new global::System.EventHandler(this.flatTextBox1_TextChanged);
 			this.pictureBox1.BackColor = global::System.Drawing.Color.Transparent;
-			this.pictureBox1.Image = (global::System.Drawing.Image)componentResourceManager.GetObject("pictureBox1.Image");
 			this.pictureBox1.Location = new global::System.Drawing.Point(77, -7);
 			this.pictureBox1.Name = "pictureBox1";
 			this.pictureBox1.Size = new global::System.Drawing.Size(332, 95);
@@ -138,7 +135,6 @@
 			base.Controls.Add(this.bunifuFlatButton1);
 			this.ForeColor = global::System.Drawing.Color.FromArgb(124, 3, 139);
 			base.FormBorderStyle = global::System.Windows.Forms.FormBorderStyle.FixedDialog;
-			base.Icon = (global::System.Drawing.Icon)componentResourceManager.GetObject("$this.Icon");
 			base.MaximizeBox = false;
 			base.Name = "Whitelist";
 			this.Text = "Whitelist";
