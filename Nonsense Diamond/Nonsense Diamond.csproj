@@ -93,6 +93,9 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="JailbreakDestroyer\Form3.resources" />
+    <EmbeddedResource Include="JailbreakDestroyer\Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="JailbreakDestroyer\Languages.resources" />
     <EmbeddedResource Include="JailbreakDestroyer\Properties\Resources.resources" />
     <EmbeddedResource Include="JailbreakDestroyer\redesign1.resources" />
